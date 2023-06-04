@@ -18,7 +18,7 @@ class PlacesDetailScreen extends StatelessWidget {
             place.image,
             fit: BoxFit.cover,
             width: double.infinity,
-            height: = double.infinity,
+            height: double.infinity,
           ),
         ],
       ),
